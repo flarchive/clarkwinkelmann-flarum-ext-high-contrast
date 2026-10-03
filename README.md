@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-high-contrast.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-high-contrast) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-high-contrast).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-high-contrast/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-high-contrast/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-04-01 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-high-contrast/tree/archive/v0.1.0) |
+| `0.1.1` | 2018-05-10 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-high-contrast/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-high-contrast.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-high-contrast.json)
 
